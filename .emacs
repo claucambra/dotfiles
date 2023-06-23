@@ -11,7 +11,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
-   '(qml-mode beacon auto-package-update yasnippet-snippets doom-modeline projectile rainbow-delimiters vertico magit compat)))
+   '(qml-mode beacon auto-package-update yasnippet-snippets doom-modeline projectile rainbow-delimiters vertico marginalia magit diff-hl which-key projectile compat)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
